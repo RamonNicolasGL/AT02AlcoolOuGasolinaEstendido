@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Álcool ou Gasolina Estendido</string>
+    <string name="preco_alcool_hint">Preço do Álcool (ex: 4.59)</string>
+    <string name="preco_gasolina_hint">Preço da Gasolina (ex: 5.89)</string>
+    <string name="station_name_hint">Nome do Posto (opcional)</string>
+    <string name="melhor_opcao_e">A melhor opção é: %1$s</string>
+    <string name="alcool">Álcool</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="salvar_dados">Salvar Posto</string>
+    <string name="ver_lista">Ver Lista de Postos</string>
+    <string name="switch_text">Lembrar minha escolha</string>
+    <string name="dados_salvos_sucesso">Dados do posto salvos com sucesso!</string>
+    <string name="erro_salvar_dados">Preencha os preços e o nome do posto para salvar.</string>
+    <string name="erro_localizacao">Não foi possível obter a localização.</string>
+    <string name="permissao_localizacao_negada">Permissão de localização negada.</string>
+    <string name="lista_de_postos_salvos">Lista de Postos Salvos</string>
+    <string name="detalhes_do_posto">Detalhes do Posto</string>
+    <string name="data_do_cadastro">Data do Cadastro:</string>
+    <string name="salvar_alteracoes">Salvar Alterações</string>
+    <string name="excluir_posto">Excluir Posto</string>
+    <string name="ver_no_mapa">Ver no Mapa</string>
+    <string name="posto_atualizado_sucesso">Posto atualizado com sucesso!</string>
+    <string name="posto_excluido_sucesso">Posto excluído com sucesso!</string>
+    <string name="preencha_todos_campos">Por favor, preencha todos os campos.</string>
+    <string name="melhor_opcao_era">Melhor Opção:</string>
+    <string name="change_language">Mudar Idioma</string>
+</resources>

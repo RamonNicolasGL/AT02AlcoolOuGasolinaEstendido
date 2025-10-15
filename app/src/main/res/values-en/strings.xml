@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Extended Alcohol or Gasoline</string>
+    <string name="preco_alcool_hint">Alcohol Price (e.g., 4.59)</string>
+    <string name="preco_gasolina_hint">Gasoline Price (e.g., 5.89)</string>
+    <string name="station_name_hint">Station Name (optional)</string>
+    <string name="melhor_opcao_e">The best option is: %1$s</string>
+    <string name="alcool">Alcohol</string>
+    <string name="gasolina">Gasoline</string>
+    <string name="salvar_dados">Save Station</string>
+    <string name="ver_lista">View Saved Stations</string>
+    <string name="switch_text">Remember my choice</string>
+    <string name="dados_salvos_sucesso">Station data saved successfully!</string>
+    <string name="erro_salvar_dados">Fill in the prices and station name to save.</string>
+    <string name="erro_localizacao">Could not get location.</string>
+    <string name="permissao_localizacao_negada">Location permission denied.</string>
+    <string name="lista_de_postos_salvos">List of Saved Stations</string>
+    <string name="detalhes_do_posto">Station Details</string>
+    <string name="data_do_cadastro">Date of Registration:</string>
+    <string name="salvar_alteracoes">Save Changes</string>
+    <string name="excluir_posto">Delete Station</string>
+    <string name="ver_no_mapa">View on Map</string>
+    <string name="posto_atualizado_sucesso">Station updated successfully!</string>
+    <string name="posto_excluido_sucesso">Station deleted successfully!</string>
+    <string name="preencha_todos_campos">Please fill in all fields.</string>
+    <string name="melhor_opcao_era">Best Option:</string>
+    <string name="change_language">Change Language</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".DetalhesPostoActivity">
+
+    <EditText
+        android:id="@+id/etNomePostoDetalhe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/station_name_hint"
+        android:inputType="textCapWords"/>
+
+    <EditText
+        android:id="@+id/etPrecoAlcoolDetalhe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="@string/preco_alcool_hint"
+        android:inputType="numberDecimal"/>
+
+    <EditText
+        android:id="@+id/etPrecoGasolinaDetalhe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="@string/preco_gasolina_hint"
+        android:inputType="numberDecimal"/>
+
+    <TextView
+        android:id="@+id/tvDataCadastro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        tools:text="Data do Cadastro: 01/01/2025 10:30" />
+
+    <Button
+        android:id="@+id/btnSalvarAlteracoes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/salvar_alteracoes"/>
+
+    <Button
+        android:id="@+id/btnVerMapa"
+        style="?attr/materialButtonOutlinedStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/ver_no_mapa"/>
+
+    <Button
+        android:id="@+id/btnExcluir"
+        style="@style/Widget.Material3.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="@string/excluir_posto"
+        android:textColor="?attr/colorError"/>
+
+</LinearLayout>
