@@ -1,6 +1,7 @@
 # AT02 - Álcool ou Gasolina
 
-https://github.com/RobertoSergio/AT02-Alcool_ou_Gasolina_Simples
+https://github.com/RamonNicolasGL/AT02AlcoolOuGasolinaEstendido.git
+
 Aplicativo Android simples que calcula qual combustível é mais vantajoso: álcool ou gasolina.
 
 ## Funcionalidades
